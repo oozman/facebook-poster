@@ -1,7 +1,7 @@
 {
   "name": "facebook-poster",
-  "version": "1.0.0",
-  "description": "This is a a simple cli-based app that allows you to post a message to your Facebook timeline.",
+  "version": "1.0.1",
+  "description": "This is a simple cli-based app that allows you to post a message to your Facebook timeline.",
   "main": "index.js",
   "author": "Oozman <hi@oozman.com>",
   "license": "MIT",
