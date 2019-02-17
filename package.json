@@ -1,0 +1,13 @@
+{
+  "name": "facebook-poster",
+  "version": "1.0.0",
+  "description": "A Facebook poster.",
+  "main": "index.js",
+  "author": "Oozman <hi@oozman.com>",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "puppeteer": "^1.12.2",
+    "yargs": "^13.2.0"
+  }
+}
